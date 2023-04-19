@@ -1,2 +1,2 @@
-# hellobootstrap
-Bootstrap Project 
+# hello bootstrap
+Bootstrap Project woth Navbar, heros and footer
